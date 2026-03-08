@@ -117,8 +117,9 @@ It demonstrates how modern AI systems can combine **language models with externa
 BTech (AI & ML) Student  
 Interested in Artificial Intelligence, Machine Learning, and AI Agents.
 
----
 
+---
+<img width="1366" height="689" alt="Sashank&#39;s Ai Agent - Google Chrome 08-03-2026 04_43_27" src="https://github.com/user-attachments/assets/79fe2613-d3b6-4561-97ec-23f171e071b8" />
 ## ⭐ If you like this project
 
 Give it a **star on GitHub** and feel free to contribute!
